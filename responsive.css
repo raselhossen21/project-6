@@ -1,0 +1,18 @@
+@media (max-width: 991.98px){
+    #my-header ul.navbar-nav {
+        line-height: 45px;
+    }
+
+}
+
+@media (max-width: 767px){
+    #signup-section .form-box {
+        width: 100%;
+    }
+    #my-footer .col-md-6 ul {
+        text-align: center;
+    }
+    #my-footer .text {
+        text-align: center;
+    }
+}
